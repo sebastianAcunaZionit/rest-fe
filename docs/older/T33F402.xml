@@ -1,0 +1,113 @@
+<EnvioDTE version="1.0" xmlns="http://www.sii.cl/SiiDte" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sii.cl/SiiDte EnvioDTE_v10.xsd">
+<SetDTE ID="SetDoc">
+<Caratula version="1.0">
+<RutEmisor>76196540-9</RutEmisor>
+<RutEnvia>15953693-9</RutEnvia>
+<RutReceptor>60803000-K</RutReceptor>
+<FchResol>2015-11-17</FchResol>
+<NroResol>0</NroResol>
+<TmstFirmaEnv>2022-04-25T09:53:41</TmstFirmaEnv>
+<SubTotDTE>
+<TpoDTE>33</TpoDTE>
+<NroDTE>1</NroDTE>
+</SubTotDTE>
+</Caratula>
+<DTE version="1.0">
+<Documento ID="T33F402">
+<Encabezado>
+<IdDoc>
+<TipoDTE>33</TipoDTE>
+<Folio>402</Folio>
+<FchEmis>2022-04-25</FchEmis>
+<FmaPago>1</FmaPago>
+<TermPagoGlosa>Contado</TermPagoGlosa>
+<FchVenc>2022-04-27</FchVenc>
+</IdDoc>
+<Emisor>
+<RUTEmisor>76196540-9</RUTEmisor>
+<RznSoc>LIBRERIA Y PAPELERIA DELTA LIMITADA</RznSoc>
+<GiroEmis>LIBRERIA PAPELERIA ARTICULOS DE ESCRITORIO IMPRENTA</GiroEmis>
+<Acteco>523924</Acteco>
+<Sucursal>CONCEPCION</Sucursal>
+<CdgSIISucur>75683022</CdgSIISucur>
+<DirOrigen>Freire 360</DirOrigen>
+<CmnaOrigen>CONCEPCION</CmnaOrigen>
+<CdgVendedor>RODRIGO DEL CANTO</CdgVendedor>
+</Emisor>
+<Receptor>
+<RUTRecep>77433350-9</RUTRecep>
+<RznSocRecep>PARISCHEWSKY Y ANGUITA LTDA</RznSocRecep>
+<GiroRecep>VIDRIERIA Y ALUMINIO</GiroRecep>
+<Contacto>PARISCHEWS SEDE CASA MATRIZ</Contacto>
+<DirRecep>FREIRE 432</DirRecep>
+<CmnaRecep>CONCEPCION</CmnaRecep>
+<CiudadRecep>CONCEPCION</CiudadRecep>
+</Receptor>
+<Totales>
+<MntNeto>2860</MntNeto>
+<TasaIVA>19.00</TasaIVA>
+<IVA>543</IVA>
+<MntTotal>3403</MntTotal>
+</Totales>
+</Encabezado>
+<Detalle>
+<NroLinDet>1</NroLinDet>
+<CdgItem>
+<TpoCodigo>INTERNO</TpoCodigo>
+<VlrCodigo>29</VlrCodigo>
+</CdgItem>
+<NmbItem>goma de borrar school</NmbItem>
+<QtyItem>10.000000</QtyItem>
+<UnmdItem>UNID</UnmdItem>
+<PrcItem>286.000000</PrcItem>
+<MontoItem>2860</MontoItem>
+</Detalle>
+<TED version="1.0">
+<DD>
+<RE>76196540-9</RE>
+<TD>33</TD>
+<F>402</F>
+<FE>2022-04-25</FE>
+<RR>77433350-9</RR>
+<RSR>PARISCHEWSKY Y ANGUITA LTDA</RSR>
+<MNT>3403</MNT>
+<IT1>goma de borrar school</IT1>
+<CAF version="1.0"><DA><RE>76196540-9</RE><RS>LIBRERIA Y PAPELERIA DELTA LIMITADA</RS><TD>33</TD><RNG><D>402</D><H>402</H></RNG><FA>2022-04-12</FA><RSAPK><M>5eSywyVj8TM6FSwZKiVSPkvt4vniwW0svpjkmoelmPGiFAiVL2UZaD1p3PLH4oDj6zaUSpWB3QAeGMHsCA2rrQ==</M><E>Aw==</E></RSAPK><IDK>100</IDK></DA><FRMA algoritmo="SHA1withRSA">XNjVpkbCS5qh1bkQeDczKnfOhEdng8UBJYfQ5T9rxrNjkzDVt/2+zrTdRNvelizr8KWQ1C72+VH/oVhVeZGE7Q==</FRMA></CAF><TSTED>2022-04-25T09:53:41</TSTED>
+</DD>
+<FRMT algoritmo="SHA1withRSA">17KaIthMDyLQRN70eHZx1mCN4o4zcfZwspWoZ2L030/oDslZLM7wrw/pXbqsszJqQUzATb6cgIq/CSGDSyfM6A==</FRMT>
+</TED>
+<TmstFirma>2022-04-25T09:53:41</TmstFirma>
+</Documento>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/TR/2001/REC-xml-c14n-20010315"/><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1"/><Reference URI="#T33F402"><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1"/><DigestValue>kwL4j4jjwYgDjR4sStBr+OE5ZFg=</DigestValue></Reference></SignedInfo><SignatureValue>rPXpLmr2+l/OQNspolu16GaPHJRuUprj1kOW4BSkhRQEaavYap0CRtmjDHrPXMjOYBC18JNfI5TSsS86rFmCxoSgfn7F5d5Ka0V6FZr7jD/iUnHS5hWejT7grp+ADUBkMHCUF+zel7M4hoxW7uIZbqHhk0XIgncfqPCfTxfPcL8=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tqBjMDX1eJJaea0Sgllif1M9MtKxi14+ttF9xHexEP8ST/8oq2kOQ6Oa2JtPHCdEsl3qdm3k0ihB
+vRjM05FB1E/4srol4D9NcBvvHCQi4jBxofEkP2kAmgME5nPSVXG0Vi0BiDSlaubR6lGCp4MSCFIi
+EEe2ntS836GCQd6YLyU=
+</Modulus><Exponent>AQAB
+</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIGLTCCBRWgAwIBAgIKGD3LaAAAABJRRTANBgkqhkiG9w0BAQUFADCB0jELMAkGA1UEBhMCQ0wx
+HTAbBgNVBAgTFFJlZ2lvbiBNZXRyb3BvbGl0YW5hMREwDwYDVQQHEwhTYW50aWFnbzEUMBIGA1UE
+ChMLRS1DRVJUQ0hJTEUxIDAeBgNVBAsTF0F1dG9yaWRhZCBDZXJ0aWZpY2Fkb3JhMTAwLgYDVQQD
+EydFLUNFUlRDSElMRSBDQSBGSVJNQSBFTEVDVFJPTklDQSBTSU1QTEUxJzAlBgkqhkiG9w0BCQEW
+GHNjbGllbnRlc0BlLWNlcnRjaGlsZS5jbDAeFw0yMDA5MTQxOTQ0MDlaFw0yMzA5MTQxOTQ0MDla
+MIGuMQswCQYDVQQGEwJDTDEQMA4GA1UECAwHQklPQsONTzEQMA4GA1UEBwwHQklPQsONTzEeMBwG
+A1UEChMVSU5HRU5JRVJJQSBaSU9OSVQgU1BBMQowCAYDVQQLDAEqMSswKQYDVQQDEyJST0RSSUdP
+IEZFTElQRSBERUwgQ0FOVE8gQ09OVFJFUkFTMSIwIAYJKoZIhvcNAQkBFhNSREVMQ0FOVE9AWklP
+TklULkNMMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQC2oGMwNfV4klp5rRKCWWJ/Uz0y0rGL
+Xj620X3Ed7EQ/xJP/yiraQ5Do5rYm08cJ0SyXep2beTSKEG9GMzTkUHUT/iyuiXgP01wG+8cJCLi
+MHGh8SQ/aQCaAwTmc9JVcbRWLQGINKVq5tHqUYKngxIIUiIQR7ae1LzfoYJB3pgvJQIDAQABo4IC
+qTCCAqUwggFPBgNVHSAEggFGMIIBQjCCAT4GCCsGAQQBw1IFMIIBMDAtBggrBgEFBQcCARYhaHR0
+cDovL3d3dy5lLWNlcnRjaGlsZS5jbC9DUFMuaHRtMIH+BggrBgEFBQcCAjCB8R6B7gBFAGwAIABy
+AGUAcwBwAG8AbgBkAGUAcgAgAGUAcwB0AGUAIABmAG8AcgBtAHUAbABhAHIAaQBvACAAZQBzACAA
+dQBuACAAcgBlAHEAdQBpAHMAaQB0AG8AIABpAG4AZABpAHMAcABlAG4AcwBhAGIAbABlACAAcABh
+AHIAYQAgAGQAYQByACAAaQBuAGkAYwBpAG8AIABhAGwAIABwAHIAbwBjAGUAcwBvACAAZABlACAA
+YwBlAHIAdABpAGYAaQBjAGEAYwBpAPMAbgAuACAAUABvAHMAdABlAHIAaQBvAHIAbQBlAG4AdABl
+ACwwHQYDVR0OBBYEFKiTF/9172IKYNQShFhq/28RAS3MMAsGA1UdDwQEAwIE8DAjBgNVHREEHDAa
+oBgGCCsGAQQBwQEBoAwWCjE1OTUzNjkzLTkwHwYDVR0jBBgwFoAUeOE+n9ISs3o8jc0wDlOzQykH
+s1UwPgYDVR0fBDcwNTAzoDGgL4YtaHR0cDovL2NybC5lLWNlcnRjaGlsZS5jbC9lY2VydGNoaWxl
+Y2FGRVMuY3JsMDoGCCsGAQUFBwEBBC4wLDAqBggrBgEFBQcwAYYeaHR0cDovL29jc3AuZWNlcnRj
+aGlsZS5jbC9vY3NwMD0GCSsGAQQBgjcVBwQwMC4GJisGAQQBgjcVCILcgy+Fk4xmhdWdF4Li3CeB
+7+w8YYHLnhSGqIJYAgFkAgEEMCMGA1UdEgQcMBqgGAYIKwYBBAHBAQKgDBYKOTY5MjgxODAtNTAN
+BgkqhkiG9w0BAQUFAAOCAQEAkGvbLKlQ80e+onJbUlLpO8zV+5t9OwqUa4iEEpn9kaF9afOF00K1
+mn7dKHbxXvwNqmX/OEDwWVU7A8Dt0x0WqWRN9p97/n8Nc0MYnlgra8ASSrMGP7ihwm6PZm+DyT7W
+H+xL11exrFuvP0tX9zmMr10JfAGzYN0yHH8zYkUuOX9cI83D7BPAQRooHfrmWbR4ldN4w/ieh3Td
+PTgzaL2la40ALTmX0MUupj1BxnRxbTD4ArVzv9JM3fJhNDXSHWTtbQ6JMgDqKrwV5oz2qNd20gev
+UwMyshSHqP6AF0BOPTkAwKhZqBKmbtUprysi7q/E62GfQXc5tBc2c5D2eGk9Vg==</X509Certificate></X509Data></KeyInfo></Signature></DTE></SetDTE>
+</EnvioDTE>
